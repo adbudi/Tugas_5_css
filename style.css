@@ -1,0 +1,22 @@
+.div_menu {
+  background-color: black;
+}
+.menu {
+  color: white;
+
+  }
+  p{
+    font-family: sans-serif;
+    text-align: justify;
+  }
+  .slider-div {
+  padding-top: 10px;
+    padding-left: 60px;
+
+  }
+.footer,
+.footer-alamat{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
